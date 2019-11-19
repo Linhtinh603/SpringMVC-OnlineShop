@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/tmdt/nhom03/controller/CaNhan.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/DangKy.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/DangNhap.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/GioHang.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/Home.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/QuanLyController.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/controller/ThemGioHang.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/service/GioHangService.java=UTF-8
+encoding//src/main/java/com/tmdt/nhom03/service/HomeService.java=UTF-8
